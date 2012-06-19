@@ -1,0 +1,6 @@
+A Python/Cython implementation of a Lee adaptive smoothing filter. 
+
+See:
+Lee, J.S., 1981. Speckle Analysis and Smoothing of Synthetic 
+Aperture Radar Images. Computer Graphics and Image 
+Processing, Vol. 17:24-32. 
